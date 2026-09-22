@@ -126,13 +126,13 @@ Only give the bot the permissions it needs, and replace the token immediately if
 
 The code is intentionally kept approachable so new developers can learn from it and add their own commands. When contributing, keep changes focused, protect user data, and never include real tokens or server IDs.
 
-## License
-
-This project is available under the [MIT License](LICENSE).
-
-## Author and community
+## Author and Community
 
 - Author: **KSAGlory**
 - Community: [discord.gg/ksahub](https://discord.gg/ksahub)
+
+## License
+
+This project is available under the [MIT License](LICENSE).
 
 Copyright © 2026 KSAGlory
